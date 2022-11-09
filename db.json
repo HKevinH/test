@@ -27,8 +27,8 @@
         },
         {
             "id": 2,
-            "thumbnail_url": "https://w0.peakpx.com/wallpaper/689/53/HD-wallpaper-tomatoes-colours-food-happy-red-vegetables.jpg",
-            "icon": "https://cdn-icons-png.flaticon.com/512/1202/1202125.png",
+            "thumbnail_url": "https://d3ugyf2ht6aenh.cloudfront.net/stores/033/117/products/chile-jalapeno-capsicum-anuum-organico_11-01a93cecc669a6831a16317423450926-1024-1024.jpeg",
+            "icon": "https://cdn-icons-png.flaticon.com/512/3523/3523490.png",
             "name": " Aji Jalapeño",
             "description": "Es una especie de herbacea, que suele cultivarse en cualquier epoca del año, sus frutos son carnosos alargados y de diversos colores, se cultiva en suelos de fertilidad media y textura suelta, creciendo muy bien en suelos artillosos lo favorecen las temperaturas elevadas.",
             "name_scient": "Capsicum annum 'Jalapeño'",
@@ -103,9 +103,9 @@
         },
         {
             "id": 5,
-            "name": "Ajo",
-            "thumbnail_url": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/551dbd5d3732390003620100.jpg?1428012380",
-            "icon": "https://cdn-icons-png.flaticon.com/512/7217/7217826.png",
+            "name": "Cilantro",
+            "thumbnail_url": "https://cdn.shopify.com/s/files/1/1382/4921/products/Cilantro_1200x1200.jpg?v=1477429736",
+            "icon": "https://cdn-icons-png.flaticon.com/512/4727/4727220.png",
             "name_scient": "",
             "germiny_time": "",
             "cosech": "",
