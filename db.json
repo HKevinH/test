@@ -54,8 +54,8 @@
         {
             "id": 3,
             "name": "Zanahoria",
-            "thumbnail_url": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/551dbd5d3732390003620100.jpg?1428012380",
-            "icon": "https://www.tuberculos.org/wp-content/uploads/2018/05/zanahoria.jpg",
+            "thumbnail_url": "https://www.tuberculos.org/wp-content/uploads/2018/05/zanahoria.jpg",
+            "icon": "https://cdn-icons-png.flaticon.com/512/1041/1041355.png",
             "name_scient": "",
             "germiny_time": "",
             "cosech": "",
@@ -79,8 +79,8 @@
         {
             "id": 4,
             "name": "Ajo",
-            "thumbnail_url": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/551dbd5d3732390003620100.jpg?1428012380",
-            "icon": "https://cdn-icons-png.flaticon.com/512/7217/7217826.png",
+            "thumbnail_url": "https://scrippsamg.com/wp-content/uploads/2021/09/6_-_National_Garlic_Day_2.jpg",
+            "icon": "https://cdn-icons-png.flaticon.com/512/1652/1652132.png",
             "name_scient": "",
             "germiny_time": "",
             "cosech": "",
