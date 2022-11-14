@@ -24,7 +24,6 @@
             "soil_type": "Limoso",
             "ph": "5.5, y 6.0 a 6.8",
             "category": "Frutas",
-            "category_id": "1"
         },
         {
             "id": 2,
@@ -73,8 +72,7 @@
             "separation": "8 centimetros",
             "soil_type": "Suelos arcillo-calizos, aireados, frescos",
             "ph": "5.8. y 7",
-            "category": "Frutas",
-            "category_id": "3"
+            "category": "Vegetal",
         },
         {
             "id": 4,
@@ -99,8 +97,7 @@
             "separation": "",
             "soil_type": "",
             "ph": "",
-            "category": "Frutas",
-            "category_id": "3"
+            "category": "Vegetal",
         },
         {
             "id": 5,
@@ -125,8 +122,7 @@
             "separation": "",
             "soil_type": "",
             "ph": "",
-            "category": "Frutas",
-            "category_id": "3"
+            "category": "Aromatica",
         }
     ]
 }
