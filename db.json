@@ -23,7 +23,7 @@
             "separation": "45 cm",
             "soil_type": "Limoso",
             "ph": "5.5, y 6.0 a 6.8",
-            "category": "Frutas",
+            "category": "Fruta",
         },
         {
             "id": 2,
@@ -48,8 +48,7 @@
             "separation": "30 cm",
             "soil_type": "Arcilloso",
             "ph": "Acido 3.5, 6.5",
-            "category": "Frutas",
-            "category_id": "2"
+            "category": "Fruta",
         },
         {
             "id": 3,
